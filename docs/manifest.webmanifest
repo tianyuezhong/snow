@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "雪迹 · 单板滑雪成长手账",
+  "short_name": "雪迹",
+  "description": "离线可用的个人单板滑雪手账",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#153c4a",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

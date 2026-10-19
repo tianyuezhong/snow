@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+qa/*.json
+
+# Local Sites identity and generated browser QA artifacts
+.openai/
+qa/
